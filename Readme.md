@@ -89,4 +89,5 @@ streamlit run app.py
 ---
 
 ## Deployment
-[▶️ Watch demo video](demo_video.mp4)
+[▶️ Watch demo video](https://youtu.be/m7k9y359yA8)
+
